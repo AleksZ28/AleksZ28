@@ -2,7 +2,7 @@
 
 I'm learning programming with a focus on web and mobile development.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZ28&theme=dark&show_icons=true&hide_border=true&layout=compact" height="250">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AleksZ28&theme=dark&show_icons=true&hide_border=true&layout=compact" height="250">
 
 ## Technologies & Tools
 ### ⭐⭐⭐ - Advanced:
